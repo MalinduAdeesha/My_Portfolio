@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d824694.css",
+    "main.js": "/static/js/main.20e34597.js",
+    "static/js/787.b987951a.chunk.js": "/static/js/787.b987951a.chunk.js",
+    "static/media/travel.png": "/static/media/travel.1650768ae87f6e428e5b.png",
+    "static/media/instagram.png": "/static/media/instagram.5f7d13f73be48885c638.png",
+    "static/media/vehical.png": "/static/media/vehical.ab075eb6d4487482151f.png",
+    "static/media/watch.png": "/static/media/watch.7f71a5d57ad1593114c9.png",
+    "static/media/myAv.png": "/static/media/myAv.9cfa0c9a9ec756023305.png",
+    "static/media/chat.png": "/static/media/chat.21b6b8b24f0f5a7560e7.png",
+    "static/media/google.png": "/static/media/google.17e92d2405ce00277a4a.png",
+    "static/media/rounded-text2.png": "/static/media/rounded-text2.f87bc6e36a7a15d2e815.png",
+    "static/media/top-left-img3.jpg": "/static/media/top-left-img3.5889fdedf61590797e9f.jpg",
+    "index.html": "/index.html",
+    "main.1d824694.css.map": "/static/css/main.1d824694.css.map",
+    "main.20e34597.js.map": "/static/js/main.20e34597.js.map",
+    "787.b987951a.chunk.js.map": "/static/js/787.b987951a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d824694.css",
+    "static/js/main.20e34597.js"
+  ]
+}
